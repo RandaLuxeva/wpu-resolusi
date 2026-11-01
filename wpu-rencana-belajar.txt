@@ -5,3 +5,4 @@ rencana belajar
 - java
 - jawascript
 - sumsel script
+- susu
