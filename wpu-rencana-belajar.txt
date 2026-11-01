@@ -2,3 +2,6 @@ rencana belajar
 - javascript
 - nodeJs
 - belajar php
+- java
+- jawascript
+- sumsel script
