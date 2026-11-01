@@ -1,5 +1,4 @@
 rencana belajar
-- html
 - javascript
-- css
 - nodeJs
+- belajar php
