@@ -2,3 +2,5 @@ rencana belajar
 - javascript
 - nodeJs
 - belajar php
+- belajar laravel
+- belajar python
