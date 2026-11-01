@@ -1,0 +1,4 @@
+rencana belajar
+- javascript
+- nodeJs
+- belajar php
