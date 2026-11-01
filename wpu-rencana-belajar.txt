@@ -1,0 +1,5 @@
+rencana belajar
+- html
+- javascript
+- css
+- nodeJs
